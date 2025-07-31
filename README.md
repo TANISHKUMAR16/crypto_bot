@@ -93,7 +93,3 @@ When significant changes occur, users receive instant notifications with actiona
 ## 📝 Disclaimer
 
 This bot is for educational and informational purposes only. Cryptocurrency trading involves substantial risk and is not suitable for all investors. Past performance is not indicative of future results. Do not make investment decisions based solely on this bot's predictions. Always do your own research and consider your risk tolerance.
-
-## 📞 Contact
-
-For questions or support, please open an issue on this repository.
