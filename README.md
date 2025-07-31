@@ -60,38 +60,6 @@ The bot continuously scans all Binance USDT pairs every 3 minutes, analyzing:
 
 When significant changes occur, users receive instant notifications with actionable insights.
 
-## 🛠️ Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/crypto-trading-bot.git
-cd crypto-trading-bot
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Set up your Telegram bot token in environment variables:
-```bash
-export TELEGRAM_BOT_TOKEN="your_telegram_bot_token_here"
-```
-
-4. Run the bot:
-```bash
-python bot.py
-```
-
-## 📈 Usage
-
-After starting the bot, interact with it through Telegram:
-
-1. Start a conversation with your bot
-2. Use `/start` to see available commands
-3. Try `/ai_signal BTC` to get an AI-powered signal for Bitcoin
-4. Use `/start_scanner` to begin continuous market analysis
-5. Subscribe to notifications with `/subscribe`
 
 ## 🏗️ Project Structure
 
